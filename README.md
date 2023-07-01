@@ -1,4 +1,4 @@
 # Eye_tracking
-Algorithm of blink detection and eye tracking
+Blink detection and eye tracking algorithm
 
 
